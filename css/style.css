@@ -4,11 +4,11 @@ body{
 }
 	
 .linkcolor{
-	color:black;
+	color:#313436;
 }
 
 #något{
-	color: orange;
+	color:#B3943E;
 }
 
 .slide{
@@ -18,12 +18,15 @@ body{
 .slide2{
 	margin-left: 360px
 }
-
-
 .navbar-inverse .navbar-brand{
 	background:  #54934e;
 color: black;
 }
+
+#större{
+	color:#313436;
+}
+
 
 .navbar-inverse{
 	background: #54934e;
@@ -38,5 +41,3 @@ color: black;
 	width:200px;
 	margin-left:300px;
 }
-
-
