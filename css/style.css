@@ -1,0 +1,42 @@
+
+body{
+	background:#aaedd8
+}
+	
+.linkcolor{
+	color:black;
+}
+
+#något{
+	color: orange;
+}
+
+.slide{
+	margin-left:450px;
+}
+
+.slide2{
+	margin-left: 360px
+}
+
+
+.navbar-inverse .navbar-brand{
+	background:  #54934e;
+color: black;
+}
+
+.navbar-inverse{
+	background: #54934e;
+
+}
+
+.navbar-inverse .navbar-nav  li a{
+	color: black;
+}
+
+.mat{
+	width:200px;
+	margin-left:300px;
+}
+
+
